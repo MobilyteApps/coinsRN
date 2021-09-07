@@ -1,0 +1,6 @@
+module Pods_CoinRedux_CoinReduxTests {
+  umbrella header "Pods-CoinRedux-CoinReduxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
